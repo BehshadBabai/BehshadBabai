@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Behshad Babai. I'm a front-end developer based in Vancouver, BC. I have an Associates Degree of Computer Science from Langara.
 - 👀 I’m interested in web development and web related technologies whether it's front-end or back-end.
-- 🌱 I’m currently learning redux and working with back-end.
+- 🌱 I’m currently working on portfolio projects for showcasing backend skills.
 - 📫 You can reach me via email: behshad.babai@gmail.com
 
 <!---
