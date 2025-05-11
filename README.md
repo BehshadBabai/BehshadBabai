@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Behshad Babai. I'm a Full-Stack developer based in Burnaby, BC. I have an Associates Degree of Computer Science from Langara College.
-- 👀 I’m interested in web development and web related technologies whether it's front-end or back-end.
-- 📫 You can reach me via email: behshad.babai@gmail.com
-
-<!---
-BehshadBabai/BehshadBabai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👨🏻‍💻 Full-Stack Software Engineer with over 4 years of Experience.
+🎓 Associates Degree of Computer Science from Langara College.
+📍 Based in Greater Vancouver Metropolitan, BC.
